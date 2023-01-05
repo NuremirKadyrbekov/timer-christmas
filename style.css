@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+    background-image: url(https://amiel.club/uploads/posts/2022-03/1647640266_40-amiel-club-p-estetichnie-kartinki-novii-god-49.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.timer{
+    display: block;
+    background-color: rgba(212, 198, 198, 0.271);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    width: 500px;
+    border: 1px solid rgb(153, 142, 142);
+    box-shadow: 0px 0px 10px 10px #d9f2c43d;
+   color: rgb(238, 218, 238);
+   margin-left: 450px;
+   margin-top: 100px;
+   font-size: 50px;
+}
+.text{
+    font-weight: 100;
+    font-size: 30px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 60px;
+    width: auto;
+    border: 0px solid rgb(153, 142, 142);
+    text-align: center;
+    color: rgb(238, 218, 238);
+    margin-left: 50px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgba(209, 212, 198, 0.271);
+}
+
+@media (max-width: 575px) {
+	body{width: 500px;
+    background-image: none;
+    background-image: url(https://i.pinimg.com/736x/94/3e/7f/943e7f55a821fa347a227f1b56b63299.jpg);
+    background-color: rgba(0, 0, 0, 0.266);
+}
+    .timer{
+        margin-left: 80px;
+        font-size: 30px;
+        width: 300px;
+    }
+    .text{
+        margin-left: 85px;
+        font-size: 30px;
+        width: 300px;
+    }
+ .contanct{
+    color: black;
+ }
+}
+@media (max-width: 475px) {
+	body{width: 400px;
+    background-image: none;
+    background-image: url(https://i.pinimg.com/736x/94/3e/7f/943e7f55a821fa347a227f1b56b63299.jpg);
+    background-color: rgba(0, 0, 0, 0.266);
+}
+    .timer{
+        margin-left: 80px;
+        font-size: 30px;
+        width: 300px;
+    }
+    .text{
+        margin-left: 85px;
+        font-size: 30px;
+        width: 300px;
+    }
+ .contanct{
+    color: black;
+ }
+}
+@media (max-width: 414px) {
+	body{width: 300px;
+    background-image: none;
+    background-image: url(https://i.pinimg.com/736x/94/3e/7f/943e7f55a821fa347a227f1b56b63299.jpg);
+    background-color: rgba(0, 0, 0, 0.266);
+}
+    .timer{
+        margin-left: 50px;
+        font-size: 30px;
+        width: 300px;
+    }
+    .text{
+        margin-left: 55px;
+        font-size: 30px;
+        width: 300px;
+    }
+ .contanct{
+    color: black;
+ }
+}
+@media (max-width: 375px) {
+	body{width: 300px;
+    background-image: none;
+    background-image: url(https://i.pinimg.com/736x/94/3e/7f/943e7f55a821fa347a227f1b56b63299.jpg);
+    background-color: rgba(0, 0, 0, 0.266);
+}
+    .timer{
+        margin-left: 20px;
+        font-size: 30px;
+        width: 300px;
+    }
+    .text{
+        margin-left: 25px;
+        font-size: 30px;
+        width: 300px;
+    }
+}
